@@ -9,7 +9,7 @@ I am a computational biologist interested in investigating the genes and gene ne
 
 <div>
   <a href= "https://github.com/barbosaxavierkevelin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbosaxavierkevelin&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbosaxavierkevelin&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosaxavierkevelin&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>  
 
