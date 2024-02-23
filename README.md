@@ -5,7 +5,7 @@ I am a computational biologist interested in investigating the genes and gene ne
 *Cannabis sativa* specie.
 
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning Fron-end development.
+- 🌱 I’m currently learning Front-end development.
 
 <div>
   <a href= "https://github.com/barbosaxavierkevelin">
