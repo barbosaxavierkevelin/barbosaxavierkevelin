@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am **Kevelin Barbosa-Xavier** and I am a PhD student in Plant Biothecnology at Universidade Estadual do Norte Fluminense Darcy Ribeiro - UENF and 
-I conduct my research under the supervision of Thiago Motta Venancio. I am a biologist with a Masterś degree in Genetics and Plant Breading.
+I conduct my research under the supervision of Thiago Motta Venancio. I am a biologist with a Masterś degree in Genetics and Plant Breeding.
 I am a computational biologist interested in investigating the genes and gene networks involved in plant secondary metabolic pathways and fiber production, specialy in the
 *Cannabis sativa* specie.
 
